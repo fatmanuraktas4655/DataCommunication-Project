@@ -54,10 +54,6 @@ int main() {
 
     printf("Gelen: %s | %s\n", msg, method);
 
-    /*if (rand() % 100 < 70)
-        substitution(msg);
-    else
-        printf("LOG: Veri bozulmadi\n");*/
     
     int r = rand() % 3;
 
